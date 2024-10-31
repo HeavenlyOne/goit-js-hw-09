@@ -18,7 +18,11 @@
     "url": "https://github.com/HeavenlyOne/goit-js-hw-09/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "bootstrap.native": "^5.0.13",
+    "flatpickr": "^4.6.13",
+    "izitoast": "^1.4.0",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.7"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
